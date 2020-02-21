@@ -1,5 +1,11 @@
 var Frame = require('./Frame.js');
 
+
+
+
+
+
+
 function Game(){
     this._frames = [];
     this._bonusThrow = 0;

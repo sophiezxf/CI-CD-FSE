@@ -25,4 +25,15 @@ Frame.prototype.isSpare = function(){
   return (!this.isStrike() && (this._firstThrow + this._secondThrow)==10);
 };
 
+
+
+
+
+
+
+
+
+
+
+
 module.exports = Frame;
